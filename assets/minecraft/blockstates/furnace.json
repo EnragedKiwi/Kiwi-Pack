@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "facing=north,lit=false": {"model": "minecraft:block/furnace"},
+    "facing=east,lit=false": {"model": "minecraft:block/furnace/furnace_e"},
+    "facing=south,lit=false": {"model": "minecraft:block/furnace/furnace_s"},
+    "facing=west,lit=false": {"model": "minecraft:block/furnace/furnace_w"},
+
+    "facing=north,lit=true": {"model": "minecraft:block/furnace_on"},
+    "facing=east,lit=true": {"model": "minecraft:block/furnace/furnace_on_e"},
+    "facing=south,lit=true": {"model": "minecraft:block/furnace/furnace_on_s"},
+    "facing=west,lit=true": {"model": "minecraft:block/furnace/furnace_on_w"}
+  }
+}

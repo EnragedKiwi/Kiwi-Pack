@@ -1,0 +1,27 @@
+type=item
+items=firework_rocket
+nbt.Fireworks.Flight=
+nbt.Fireworks.Explosions.0.Type= (0 small ball, 1 large ball, 2 star shaped, 3 creeper shaped, 4 burst)
+nbt.Fireworks.Explosions.0.Flicker= (1 true, !1 false)
+nbt.Fireworks.Explosions.0.Trail= (1 true, !1 false)
+nbt.Fireworks.Explosions.0.Colors=  (issues getting colors to work)
+nbt.Fireworks.Explosions.0.FadeColors= (^)
+
+Colors must use deciaml value (not hex #)
+
+Black	1908001		#1D1D21
+Red	11546150	#B02E26
+Green	6192150		#5E7C16
+Brown	8606770		#835432
+Blue	3949738		#3C44AA		2437522 ?
+Purple	8991416		#8932B8
+Cyan	1481884		#169C9C
+LghtGry	10329495	#9D9D97
+Gray	4673362		#474F52
+Pink	15961002	#F38BAA
+Lime	8439583		#80C71F
+Yellow	16701501	#FED83D
+LghtBlu	3847130		#3AB3DA
+Magenta	13061821	#C74EBD
+Orange	16351261	#F9801D
+White	16383998	#F9FFFE

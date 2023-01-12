@@ -1,0 +1,50 @@
+			STRAP	COVER	GLOW
+1 aqua affinity 	blue  	brown  	blue
+5 bane of arthropods	red 	grey 	yellow 
+4 blast protection	green	green	green
+1 channeling		yellow	trident	yellow
+  curse of binding	maroon	grey	none
+  curse of vanashing	maroon	grey	none
+3 depth strider 	green	blue	blue
+5 efficiency 		purple	brown	purple
+4 feather falling 	green	feather	green
+2 fire aspect 		orange	red	yellow
+4 fire protection 	green	red	yellow
+1 flame 		red	red bow	yellow
+3 fortune 		gold	yellow	yellow
+2 frost walker 		blue	snow	blue
+5 impaling 		blue	trident	red
+1 infinity 		purple	infinitepurple
+2 knockback 		purple	grey	yellow
+3 looting 		gold	grey	yellow
+3 loyalty 		blue	trident	yellow
+3 luck of the sea 	blue	fish	blue
+3 lure 			blue 	green	blue
+  mending		red	purple 	purple
+1 multishot 		red	arrow	none
+4 piercing 		purple	grey	pink
+5 power 		red 	grey	red
+4 projectile protection green	bow	green
+4 protection 		green	brown	green
+2 punch 		red	greybow	yellow
+3 quick charge 		red	brown	yellow
+3 respiration 		blue	bubble	blue
+3 riptide 		blue	trident	blue
+5 sharpness 		red	grey/redred
+1 silk touch 		green	grass	pale
+5 smite 		red	grave	red
+3 soul speed 		purple	nether	purple
+3 sweeping edge 	red	grey	white
+3 thorns 		green	redpage	red
+3 unbreaking 		red	bedrock	none
+
+38 Enchantments
+Prot: Green Strap
+Fortune: yellow strap
+Attacking enchants: grey cover
+flame/fire enchants: red cover
+water enchants: blue strap
+trident enchants: trident cover
+bow enchants: bow cover
+crossbow enchants: arrow cover
+fishing enchants: fish cover
