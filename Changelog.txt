@@ -1,1 +1,10 @@
-Version 3.2.1
+Version 3.3.0
+
+Removed unused items and armor from Dream SMP and renamed others.
+Knife, checkoffs gun,rocket launcher, and techno's armour (now gold trim) remain.
+
+Changed trident texture back to default colors.
+
+Major reorginization of file structure for better expansion. 
+
+Started reworking Blue's custom armor, does not work yet.
